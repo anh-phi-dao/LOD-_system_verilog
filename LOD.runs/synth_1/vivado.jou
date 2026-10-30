@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Thu May 22 00:12:29 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Fri Oct 30 21:47:01 2026
+# Process ID         : 30596
+# Current directory  : D:/Vivado/LOD/LOD.runs/synth_1
+# Command line       : vivado.exe -log lod_16bit.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source lod_16bit.tcl
+# Log file           : D:/Vivado/LOD/LOD.runs/synth_1/lod_16bit.vds
+# Journal file       : D:/Vivado/LOD/LOD.runs/synth_1\vivado.jou
+# Running On         : DESKTOP-M1GH45H
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 22631
+# Processor Detail   : Intel(R) Core(TM) i7-14700K
+# CPU Frequency      : 3418 MHz
+# CPU Physical cores : 20
+# CPU Logical cores  : 28
+# Host memory        : 34110 MB
+# Swap memory        : 5100 MB
+# Total Virtual      : 39210 MB
+# Available Virtual  : 18072 MB
+#-----------------------------------------------------------
+source lod_16bit.tcl -notrace

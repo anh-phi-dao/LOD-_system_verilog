@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Vivado/LOD/LOD.sim/sim_1/synth/func/xsim/lod_16bit_sim_func_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lod_16bit
+INFO: [VRFC 10-311] analyzing module glbl
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/Vivado/LOD/LOD.srcs/sim_1/new/lod_16bit_sim.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module lod_16bit_sim

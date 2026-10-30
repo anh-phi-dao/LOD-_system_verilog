@@ -1,0 +1,9 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "C:/Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"lod_16bit_sim_func_synth.v" \
+
+sv xil_defaultlib  --include "C:/Xilinx/2025.1/Vivado/data/rsb/busdef" \
+"../../../../../LOD.srcs/sim_1/new/lod_16bit_sim.sv" \
+
+# Do not sort compile order
+nosort

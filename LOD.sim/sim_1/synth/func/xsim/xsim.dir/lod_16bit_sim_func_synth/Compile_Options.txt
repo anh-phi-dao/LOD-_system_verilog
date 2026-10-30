@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "uvm" -L "unisims_ver" -L "secureip" --snapshot "lod_16bit_sim_func_synth" "xil_defaultlib.lod_16bit_sim" "xil_defaultlib.glbl" -log "elaborate.log" 
